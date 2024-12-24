@@ -1,0 +1,184 @@
+2024-12-07.23:16:09 || Customer 1 deposited $18.000000 into Checking Account. New balance: $18.000000
+2024-12-07.23:16:09 || Customer 2 deposited $18.000000 into Savings Account. New balance: $36.000000
+2024-12-07.23:16:09 || Customer 5 deposited $18.000000 into Checking Account. New balance: $36.000000
+2024-12-07.23:16:09 || Customer 6 deposited $18.000000 into Savings Account. New balance: $54.000000
+2024-12-07.23:16:09 || Customer 3 deposited $18.000000 into Checking Account. New balance: $54.000000
+2024-12-07.23:16:09 || Customer 8 deposited $18.000000 into Savings Account. New balance: $72.000000
+2024-12-07.23:16:09 || Customer 10 deposited $18.000000 into Savings Account. New balance: $90.000000
+2024-12-07.23:16:09 || Customer 7 deposited $18.000000 into Checking Account. New balance: $72.000000
+2024-12-07.23:16:09 || Customer 9 deposited $18.000000 into Checking Account. New balance: $90.000000
+2024-12-07.23:16:09 || 15% interest added to Savings Account. New balance: $103.500000
+2024-12-07.23:16:09 || Customer 4 withdrew $1.000000 from Savings Account. New balance: $102.500000
+2024-12-07.23:16:09 || Customer 1 withdrew $1.000000 from Checking Account. New balance: $88.950000
+2024-12-07.23:16:09 || Customer 6 withdrew $1.000000 from Savings Account. New balance: $101.500000
+2024-12-07.23:16:09 || Customer 5 withdrew $1.000000 from Checking Account. New balance: $87.900000
+2024-12-07.23:16:09 || Customer 10 withdrew $1.000000 from Savings Account. New balance: $100.500000
+2024-12-07.23:16:09 || Customer 9 withdrew $1.000000 from Checking Account. New balance: $86.850000
+2024-12-07.23:16:09 || Customer 2 withdrew $1.000000 from Savings Account. New balance: $99.500000
+2024-12-07.23:16:09 || Customer 3 withdrew $1.000000 from Checking Account. New balance: $85.800000
+2024-12-07.23:16:09 || Customer 8 withdrew $1.000000 from Savings Account. New balance: $98.500000
+2024-12-07.23:16:09 || Customer 7 withdrew $1.000000 from Checking Account. New balance: $84.750000
+2024-12-07.23:16:09 || 15% interest added to Savings Account. New balance: $113.270000
+2024-12-07.23:16:09 || Customer 7 deposited $25.000000 into Checking Account. New balance: $109.750000
+2024-12-07.23:16:09 || Customer 8 deposited $25.000000 into Savings Account. New balance: $138.270000
+2024-12-07.23:16:09 || Customer 3 deposited $25.000000 into Checking Account. New balance: $134.750000
+2024-12-07.23:16:09 || Customer 4 deposited $25.000000 into Savings Account. New balance: $163.270000
+2024-12-07.23:16:09 || Customer 1 deposited $25.000000 into Checking Account. New balance: $159.750000
+2024-12-07.23:16:09 || Customer 5 deposited $25.000000 into Checking Account. New balance: $184.750000
+2024-12-07.23:16:09 || Customer 6 deposited $25.000000 into Savings Account. New balance: $188.270000
+2024-12-07.23:16:09 || Customer 9 deposited $25.000000 into Checking Account. New balance: $209.750000
+2024-12-07.23:16:09 || Customer 10 deposited $25.000000 into Savings Account. New balance: $213.270000
+2024-12-07.23:16:09 || Customer 2 deposited $25.000000 into Savings Account. New balance: $238.270000
+2024-12-07.23:16:09 || 15% interest added to Savings Account. New balance: $274.010000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $315.110000
+2024-12-07.23:16:10 || Customer 10 withdrew $9.000000 from Savings Account. New balance: $306.110000
+2024-12-07.23:16:10 || Customer 1 withdrew $9.000000 from Checking Account. New balance: $200.300000
+2024-12-07.23:16:10 || Customer 2 withdrew $9.000000 from Savings Account. New balance: $297.110000
+2024-12-07.23:16:10 || Customer 6 withdrew $9.000000 from Savings Account. New balance: $288.110000
+2024-12-07.23:16:10 || Customer 5 withdrew $9.000000 from Checking Account. New balance: $190.850000
+2024-12-07.23:16:10 || Customer 8 withdrew $9.000000 from Savings Account. New balance: $279.110000
+2024-12-07.23:16:10 || Customer 9 withdrew $9.000000 from Checking Account. New balance: $181.400000
+2024-12-07.23:16:10 || Customer 4 withdrew $9.000000 from Savings Account. New balance: $270.110000
+2024-12-07.23:16:10 || Customer 7 withdrew $9.000000 from Checking Account. New balance: $171.950000
+2024-12-07.23:16:10 || Customer 3 withdrew $9.000000 from Checking Account. New balance: $162.500000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $310.630000
+2024-12-07.23:16:10 || Customer 10 withdrew $15.000000 from Savings Account. New balance: $295.630000
+2024-12-07.23:16:10 || Customer 1 withdrew $15.000000 from Checking Account. New balance: $146.750000
+2024-12-07.23:16:10 || Customer 2 withdrew $15.000000 from Savings Account. New balance: $280.630000
+2024-12-07.23:16:10 || Customer 6 withdrew $15.000000 from Savings Account. New balance: $265.630000
+2024-12-07.23:16:10 || Customer 5 withdrew $15.000000 from Checking Account. New balance: $131.000000
+2024-12-07.23:16:10 || Customer 9 withdrew $15.000000 from Checking Account. New balance: $115.250000
+2024-12-07.23:16:10 || Customer 3 withdrew $15.000000 from Checking Account. New balance: $99.500000
+2024-12-07.23:16:10 || Customer 4 withdrew $15.000000 from Savings Account. New balance: $250.630000
+2024-12-07.23:16:10 || Customer 7 withdrew $15.000000 from Checking Account. New balance: $83.750000
+2024-12-07.23:16:10 || Customer 8 withdrew $15.000000 from Savings Account. New balance: $235.630000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $270.970000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $311.620000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $358.360000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $412.110000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $473.930000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $545.020000
+2024-12-07.23:16:10 || 15% interest added to Savings Account. New balance: $626.770000
+2024-12-07.23:29:59 || Customer 3 deposited $18.000000 into Checking Account. New balance: $18.000000
+2024-12-07.23:29:59 || Customer 2 deposited $18.000000 into Savings Account. New balance: $18.000000
+2024-12-07.23:29:59 || Customer 1 deposited $18.000000 into Checking Account. New balance: $36.000000
+2024-12-07.23:29:59 || Customer 4 deposited $18.000000 into Savings Account. New balance: $36.000000
+2024-12-07.23:29:59 || Customer 6 deposited $18.000000 into Savings Account. New balance: $54.000000
+2024-12-07.23:29:59 || Customer 5 deposited $18.000000 into Checking Account. New balance: $54.000000
+2024-12-07.23:29:59 || Customer 8 deposited $18.000000 into Savings Account. New balance: $72.000000
+2024-12-07.23:29:59 || Customer 7 deposited $18.000000 into Checking Account. New balance: $72.000000
+2024-12-07.23:29:59 || Customer 9 deposited $18.000000 into Checking Account. New balance: $90.000000
+2024-12-07.23:29:59 || Customer 10 deposited $18.000000 into Savings Account. New balance: $90.000000
+2024-12-07.23:29:59 || 15% interest added to Savings Account. New balance: $103.500000
+2024-12-07.23:29:59 || Customer 10 withdrew $1.000000 from Savings Account. New balance: $102.500000
+2024-12-07.23:29:59 || Customer 9 withdrew $1.000000 from Checking Account. New balance: $88.950000
+2024-12-07.23:29:59 || Customer 8 withdrew $1.000000 from Savings Account. New balance: $101.500000
+2024-12-07.23:29:59 || Customer 4 withdrew $1.000000 from Savings Account. New balance: $100.500000
+2024-12-07.23:29:59 || Customer 7 withdrew $1.000000 from Checking Account. New balance: $87.900000
+2024-12-07.23:29:59 || Customer 5 withdrew $1.000000 from Checking Account. New balance: $86.850000
+2024-12-07.23:29:59 || Customer 6 withdrew $1.000000 from Savings Account. New balance: $99.500000
+2024-12-07.23:29:59 || Customer 3 withdrew $1.000000 from Checking Account. New balance: $85.800000
+2024-12-07.23:29:59 || Customer 2 withdrew $1.000000 from Savings Account. New balance: $98.500000
+2024-12-07.23:29:59 || Customer 1 withdrew $1.000000 from Checking Account. New balance: $84.750000
+2024-12-07.23:29:59 || 15% interest added to Savings Account. New balance: $113.270000
+2024-12-07.23:30:00 || Customer 10 deposited $25.000000 into Savings Account. New balance: $138.270000
+2024-12-07.23:30:00 || Customer 3 deposited $25.000000 into Checking Account. New balance: $109.750000
+2024-12-07.23:30:00 || Customer 2 deposited $25.000000 into Savings Account. New balance: $163.270000
+2024-12-07.23:30:00 || Customer 9 deposited $25.000000 into Checking Account. New balance: $134.750000
+2024-12-07.23:30:00 || Customer 1 deposited $25.000000 into Checking Account. New balance: $159.750000
+2024-12-07.23:30:00 || Customer 5 deposited $25.000000 into Checking Account. New balance: $184.750000
+2024-12-07.23:30:00 || Customer 6 deposited $25.000000 into Savings Account. New balance: $188.270000
+2024-12-07.23:30:00 || Customer 7 deposited $25.000000 into Checking Account. New balance: $209.750000
+2024-12-07.23:30:00 || Customer 4 deposited $25.000000 into Savings Account. New balance: $213.270000
+2024-12-07.23:30:00 || Customer 8 deposited $25.000000 into Savings Account. New balance: $238.270000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $274.010000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $315.110000
+2024-12-07.23:30:00 || Customer 6 withdrew $9.000000 from Savings Account. New balance: $306.110000
+2024-12-07.23:30:00 || Customer 5 withdrew $9.000000 from Checking Account. New balance: $200.300000
+2024-12-07.23:30:00 || Customer 2 withdrew $9.000000 from Savings Account. New balance: $297.110000
+2024-12-07.23:30:00 || Customer 1 withdrew $9.000000 from Checking Account. New balance: $190.850000
+2024-12-07.23:30:00 || Customer 10 withdrew $9.000000 from Savings Account. New balance: $288.110000
+2024-12-07.23:30:00 || Customer 8 withdrew $9.000000 from Savings Account. New balance: $279.110000
+
+2024-12-07.23:30:00 || Customer 7 withdrew $9.000000 from Checking Account. New balance: $171.950000
+2024-12-07.23:30:00 || Customer 3 withdrew $9.000000 from Checking Account. New balance: $162.500000
+2024-12-07.23:30:00 || Customer 4 withdrew $9.000000 from Savings Account. New balance: $270.110000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $310.630000
+2024-12-07.23:30:00 || Customer 9 withdrew $15.000000 from Checking Account. New balance: $146.750000
+2024-12-07.23:30:00 || Customer 2 withdrew $15.000000 from Savings Account. New balance: $280.630000
+2024-12-07.23:30:00 || Customer 1 withdrew $15.000000 from Checking Account. New balance: $131.000000
+2024-12-07.23:30:00 || Customer 6 withdrew $15.000000 from Savings Account. New balance: $265.630000
+2024-12-07.23:30:00 || Customer 4 withdrew $15.000000 from Savings Account. New balance: $250.630000
+2024-12-07.23:30:00 || Customer 5 withdrew $15.000000 from Checking Account. New balance: $115.250000
+2024-12-07.23:30:00 || Customer 8 withdrew $15.000000 from Savings Account. New balance: $235.630000
+2024-12-07.23:30:00 || Customer 3 withdrew $15.000000 from Checking Account. New balance: $99.500000
+2024-12-07.23:30:00 || Customer 7 withdrew $15.000000 from Checking Account. New balance: $83.750000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $270.970000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $311.620000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $358.360000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $412.110000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $473.930000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $545.020000
+2024-12-07.23:30:00 || 15% interest added to Savings Account. New balance: $626.770000
+2024-12-07.23:41:16 || Customer 2 deposited $18.000000 into Savings Account. New balance: $18.000000
+2024-12-07.23:41:16 || Customer 1 deposited $18.000000 into Checking Account. New balance: $18.000000
+2024-12-07.23:41:16 || Customer 4 deposited $18.000000 into Savings Account. New balance: $36.000000
+2024-12-07.23:41:16 || Customer 5 deposited $18.000000 into Checking Account. New balance: $36.000000
+2024-12-07.23:41:16 || Customer 8 deposited $18.000000 into Savings Account. New balance: $54.000000
+2024-12-07.23:41:16 || Customer 3 deposited $18.000000 into Checking Account. New balance: $54.000000
+2024-12-07.23:41:16 || Customer 6 deposited $18.000000 into Savings Account. New balance: $72.000000
+2024-12-07.23:41:16 || Customer 7 deposited $18.000000 into Checking Account. New balance: $72.000000
+2024-12-07.23:41:16 || Customer 10 deposited $18.000000 into Savings Account. New balance: $90.000000
+2024-12-07.23:41:16 || Customer 9 deposited $18.000000 into Checking Account. New balance: $90.000000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $103.500000
+2024-12-07.23:41:16 || Customer 6 withdrew $1.000000 from Savings Account. New balance: $102.500000
+2024-12-07.23:41:16 || Customer 5 withdrew $1.000000 from Checking Account. New balance: $88.950000
+2024-12-07.23:41:16 || Customer 10 withdrew $1.000000 from Savings Account. New balance: $101.500000
+2024-12-07.23:41:16 || Customer 2 withdrew $1.000000 from Savings Account. New balance: $100.500000
+2024-12-07.23:41:16 || Customer 9 withdrew $1.000000 from Checking Account. New balance: $87.900000
+2024-12-07.23:41:16 || Customer 8 withdrew $1.000000 from Savings Account. New balance: $99.500000
+2024-12-07.23:41:16 || Customer 1 withdrew $1.000000 from Checking Account. New balance: $86.850000
+2024-12-07.23:41:16 || Customer 4 withdrew $1.000000 from Savings Account. New balance: $98.500000
+2024-12-07.23:41:16 || Customer 3 withdrew $1.000000 from Checking Account. New balance: $85.800000
+2024-12-07.23:41:16 || Customer 7 withdrew $1.000000 from Checking Account. New balance: $84.750000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $113.270000
+2024-12-07.23:41:16 || Customer 2 deposited $25.000000 into Savings Account. New balance: $138.270000
+2024-12-07.23:41:16 || Customer 9 deposited $25.000000 into Checking Account. New balance: $109.750000
+2024-12-07.23:41:16 || Customer 6 deposited $25.000000 into Savings Account. New balance: $163.270000
+2024-12-07.23:41:16 || Customer 10 deposited $25.000000 into Savings Account. New balance: $188.270000
+2024-12-07.23:41:16 || Customer 1 deposited $25.000000 into Checking Account. New balance: $134.750000
+2024-12-07.23:41:16 || Customer 5 deposited $25.000000 into Checking Account. New balance: $159.750000
+2024-12-07.23:41:16 || Customer 8 deposited $25.000000 into Savings Account. New balance: $213.270000
+2024-12-07.23:41:16 || Customer 3 deposited $25.000000 into Checking Account. New balance: $184.750000
+2024-12-07.23:41:16 || Customer 4 deposited $25.000000 into Savings Account. New balance: $238.270000
+2024-12-07.23:41:16 || Customer 7 deposited $25.000000 into Checking Account. New balance: $209.750000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $274.010000
+2024-12-07.23:41:16 || Customer 9 withdrew $9.000000 from Checking Account. New balance: $200.300000
+2024-12-07.23:41:16 || Customer 2 withdrew $9.000000 from Savings Account. New balance: $265.010000
+2024-12-07.23:41:16 || Customer 6 withdrew $9.000000 from Savings Account. New balance: $295.760000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $304.760000
+2024-12-07.23:41:16 || Customer 10 withdrew $9.000000 from Savings Account. New balance: $286.760000
+2024-12-07.23:41:16 || Customer 1 withdrew $9.000000 from Checking Account. New balance: $190.850000
+2024-12-07.23:41:16 || Customer 5 withdrew $9.000000 from Checking Account. New balance: $181.400000
+2024-12-07.23:41:16 || Customer 8 withdrew $9.000000 from Savings Account. New balance: $277.760000
+2024-12-07.23:41:16 || Customer 4 withdrew $9.000000 from Savings Account. New balance: $268.760000
+2024-12-07.23:41:16 || Customer 3 withdrew $9.000000 from Checking Account. New balance: $171.950000
+2024-12-07.23:41:16 || Customer 7 withdrew $9.000000 from Checking Account. New balance: $162.500000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $309.070000
+2024-12-07.23:41:16 || Customer 9 withdrew $15.000000 from Checking Account. New balance: $146.750000
+2024-12-07.23:41:16 || Customer 2 withdrew $15.000000 from Savings Account. New balance: $294.070000
+2024-12-07.23:41:16 || Customer 8 withdrew $15.000000 from Savings Account. New balance: $279.070000
+2024-12-07.23:41:16 || Customer 5 withdrew $15.000000 from Checking Account. New balance: $131.000000
+2024-12-07.23:41:16 || Customer 1 withdrew $15.000000 from Checking Account. New balance: $115.250000
+2024-12-07.23:41:16 || Customer 10 withdrew $15.000000 from Savings Account. New balance: $264.070000
+2024-12-07.23:41:16 || Customer 6 withdrew $15.000000 from Savings Account. New balance: $249.070000
+2024-12-07.23:41:16 || Customer 4 withdrew $15.000000 from Savings Account. New balance: $234.070000
+2024-12-07.23:41:16 || Customer 7 withdrew $15.000000 from Checking Account. New balance: $99.500000
+2024-12-07.23:41:16 || Customer 3 withdrew $15.000000 from Checking Account. New balance: $83.750000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $269.180000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $309.560000
+2024-12-07.23:41:16 || 15% interest added to Savings Account. New balance: $355.990000
+2024-12-07.23:41:17 || 15% interest added to Savings Account. New balance: $409.390000
+2024-12-07.23:41:17 || 15% interest added to Savings Account. New balance: $470.800000
+2024-12-07.23:41:17 || 15% interest added to Savings Account. New balance: $541.420000
+2024-12-07.23:41:17 || 15% interest added to Savings Account. New balance: $622.630000

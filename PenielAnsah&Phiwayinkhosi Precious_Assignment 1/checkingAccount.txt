@@ -1,0 +1,10 @@
+Gilgal
+Ansah
+1997-05-01
+Male
+Pittsburgh
+C1234
+gja@gmail.com
+###
+997
+EOD
